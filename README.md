@@ -193,30 +193,30 @@ Recommendations
 
 ## Executive Dashboard
 
-![Executive Dashboard](dashboard_screenshots/Executive Dashboard.png)
+![Executive Dashboard](dashboard_screenshots/Executive_Dashboard.png)
 
 ---
 
 ## Sales Dashboard
 
-![Sales Dashboard](dashboard_screenshots/Sales Dashboard.png)
+![SalesDashboard](dashboard_screenshots/Sales_Dashboard.png)
 
 ---
 
 ## Inventory Dashboard
 
-![Inventory Dashboard](dashboard_screenshots/Inventory Dashboard.png)
+![InventoryDashboard](dashboard_screenshots/Inventory_Dashboard.png)
 
 ---
 
 ## Customer Dashboard
 
-![Customer Dashboard](/dashboard/dashboard_screenshots/Customer Dashboard.png)
+![CustomerDashboard](/dashboard/dashboard_screenshots/Customer_Dashboard.png)
 ---
 
 ## Geographic Dashboard
 
-![Geographic Dashboard](dashboard_screenshots/Geographic Dashboard.png)
+![GeographicDashboard](dashboard_screenshots/Geographic_Dashboard.png)
 
 ---
 
