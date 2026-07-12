@@ -1,0 +1,18 @@
+cat > .gitignore << 'EOF'
+# Large datasets
+data/final/
+data/cleaned/
+
+# Tableau packaged workbook
+*.twbx
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+EOF
