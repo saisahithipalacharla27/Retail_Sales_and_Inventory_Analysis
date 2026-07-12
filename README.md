@@ -211,8 +211,7 @@ Recommendations
 
 ## Customer Dashboard
 
-![Customer Dashboard](dashboard_screenshots/Customer Dashboard.png)
-
+![Customer Dashboard](/dashboard/dashboard_screenshots/Customer Dashboard.png)
 ---
 
 ## Geographic Dashboard
